@@ -40,11 +40,6 @@
     - Visualización de mapa mental
     - Importación y exportación Markdown
     - Compatibilidad con archivos MM
-  - ChatGPT
-    - Leer ramas
-    - Agregar nodos
-    - Reorganizar subárboles
-    - Proponer agrupaciones sin aplicarlas automáticamente
 - Proyectos
   - Proyecto A
     - Objetivo
@@ -62,3 +57,8 @@
   - Idea sin clasificar A
   - Idea sin clasificar B
   - Idea sin clasificar C
+- ChatGPT
+  - Leer ramas
+  - Agregar nodos
+  - Reorganizar subárboles
+  - Proponer agrupaciones sin aplicarlas automáticamente
